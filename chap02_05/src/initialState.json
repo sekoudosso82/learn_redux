@@ -1,0 +1,28 @@
+{
+    "allSkiDays":[
+        {
+            "resort": "Kirkwood",
+            "date": "2020-07-12",
+            "powder": true,
+            "backcountry": false
+        },
+        {
+            "resort": "Squaw Valley",
+            "date": "2020-07-10",
+            "powder": false,
+            "backcountry": false
+        },
+        {
+            "resort": "Mt Tallac",
+            "date": "2020-07-9",
+            "powder": false,
+            "backcountry": true
+        }
+    ],
+    "goal": 10,
+    "errors":[],
+    "resortNames":{
+        "fetching": false,
+        "suggestions": ["Squaw Valley", "Snowbird", "Stowe", "Steamboat" ]
+    }
+}
